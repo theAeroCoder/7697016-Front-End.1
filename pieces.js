@@ -35,4 +35,9 @@ for (let i = 0; i < pieces.length; i++) {
     pieceElement.appendChild(stockElement);
 
  }
+
+const boutonTrier = document.querySelector(".btn-trier");
+boutonTrier.addEventListener("click", function () {
+    // ...
+});
  
